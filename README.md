@@ -1,5 +1,5 @@
 # Facial Emotion Detection using CNN
-
+**[Live Demo — Try the Facial Emotion Detection App](https://facial-emotion-detection-9giv3vawyqyprtlg6cdne5.streamlit.app/)**
 Real-time facial emotion recognition system built with TensorFlow/Keras and OpenCV, trained on the FER-2013 dataset across 7 emotion categories (`Angry`, `Disgust`, `Fear`, `Happy`, `Neutral`, `Sad`, `Surprise`).
 
 ## Project Structure
